@@ -1,0 +1,236 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: RMX1911
+Android Version: 10
+Android API: 29
+getNetworkTypeName: mobile
+WindowWidth And WindowHeight: 720*1481
+WindowDensity:1.4375
+System's currenTimeMillis: 1623278620202
+TimeZone: libcore.util.ZoneInfo[id="Asia/Jakarta",mRawOffset=25200000,mEarliestRawOffset=25632000,mUseDst=false,mDstSavings=0,transitions=7]
+
+2021-06-10 05_33_51 102 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623278031100
+2021-06-10 05_33_51 102 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-10 18_40_31 658 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-10 18_40_31 737 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623325231736
+2021-06-10 18_40_31 737 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-10 18_40_31 896 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623325231896
+2021-06-10 18_40_31 896 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-10 19_07_09 233 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-10 19_07_09 625 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623326829625
+2021-06-10 19_07_09 626 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-10 19_07_09 705 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623326829705
+2021-06-10 19_07_09 706 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-10 21_08_06 072 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-10 21_08_06 213 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623334086212
+2021-06-10 21_08_06 214 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-10 21_08_06 494 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623334086494
+2021-06-10 21_08_06 494 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-11 05_40_25 176 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623364825175
+2021-06-11 05_40_25 178 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-11 06_25_18 783 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-11 06_25_18 903 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623367518902
+2021-06-11 06_25_18 904 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-11 06_25_19 120 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623367519120
+2021-06-11 06_25_19 120 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-11 07_26_16 737 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-11 07_26_16 834 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623371176834
+2021-06-11 07_26_16 834 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-11 07_26_17 093 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623371177093
+2021-06-11 07_26_17 094 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-11 20_57_32 298 / ColorExportPreferredNetworkSettings : setPreferredNetWorkMode, mode = 0
+2021-06-11 20_57_32 300 / ColorNetworkUtils : networkMode = 0
+2021-06-11 21_06_44 803 / ColorExportPreferredNetworkSettings : setPreferredNetWorkMode, mode = 9
+2021-06-11 21_06_44 805 / ColorNetworkUtils : networkMode = 9
+2021-06-12 02_10_54 009 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623438654008
+2021-06-12 02_10_54 010 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-12 02_47_25 654 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-12 02_47_26 030 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623440846029
+2021-06-12 02_47_26 030 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-12 02_47_26 113 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623440846113
+2021-06-12 02_47_26 115 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-12 04_39_57 722 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-12 04_39_57 788 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623447597788
+2021-06-12 04_39_57 788 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-12 04_39_57 918 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623447597918
+2021-06-12 04_39_57 918 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-13 17_17_03 405 / ColorExportPreferredNetworkSettings : setPreferredNetWorkMode, mode = 0
+2021-06-13 17_17_03 409 / ColorNetworkUtils : networkMode = 0
+2021-06-14 04_07_36 073 / ColorExportPreferredNetworkSettings : setPreferredNetWorkMode, mode = 9
+2021-06-14 04_07_36 077 / ColorNetworkUtils : networkMode = 9
+2021-06-14 07_27_32 743 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-14 07_27_32 925 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623630452925
+2021-06-14 07_27_32 927 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-14 07_27_33 182 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623630453182
+2021-06-14 07_27_33 183 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-15 00_44_39 407 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-15 00_44_39 807 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623692679807
+2021-06-15 00_44_39 808 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-15 00_44_40 022 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623692680022
+2021-06-15 00_44_40 025 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-15 01_15_42 588 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-15 01_15_42 988 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623694542988
+2021-06-15 01_15_42 988 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-15 01_15_43 117 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623694543117
+2021-06-15 01_15_43 118 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-15 05_33_33 450 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-15 05_33_33 557 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623710013557
+2021-06-15 05_33_33 558 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-15 05_33_33 800 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623710013800
+2021-06-15 05_33_33 803 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-15 11_36_17 109 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-15 11_36_17 345 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623731777344
+2021-06-15 11_36_17 345 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-15 11_36_17 430 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623731777429
+2021-06-15 11_36_17 430 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-15 15_27_25 126 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-15 15_27_25 196 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623745645196
+2021-06-15 15_27_25 196 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-15 15_27_25 324 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623745645324
+2021-06-15 15_27_25 325 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-15 22_45_07 193 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-15 22_45_07 319 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623771907319
+2021-06-15 22_45_07 320 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-15 22_45_07 552 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623771907552
+2021-06-15 22_45_07 554 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-17 05_06_13 990 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 05_06_14 069 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623881174069
+2021-06-17 05_06_14 069 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-17 05_06_14 277 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623881174277
+2021-06-17 05_06_14 278 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-17 07_08_52 947 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 07_08_53 085 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623888533085
+2021-06-17 07_08_53 086 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-17 07_08_53 277 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623888533277
+2021-06-17 07_08_53 278 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-17 07_31_29 067 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 07_31_29 195 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623889889195
+2021-06-17 07_31_29 196 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-17 07_31_29 408 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623889889408
+2021-06-17 07_31_29 409 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-17 07_32_14 676 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 07_32_14 748 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623889934748
+2021-06-17 07_32_14 748 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-17 07_32_14 882 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623889934882
+2021-06-17 07_32_14 888 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-17 07_32_22 307 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 07_32_22 376 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623889942375
+2021-06-17 07_32_22 377 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-17 07_32_22 484 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623889942484
+2021-06-17 07_32_22 484 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-17 14_35_53 186 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 14_35_53 338 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623915353338
+2021-06-17 14_35_53 340 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-17 14_35_53 626 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623915353626
+2021-06-17 14_35_53 627 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-17 14_40_47 618 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-17 14_40_47 716 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623915647716
+2021-06-17 14_40_47 717 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-17 14_40_47 978 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623915647978
+2021-06-17 14_40_47 979 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-18 03_14_59 318 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623960899309
+2021-06-18 03_14_59 319 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-18 07_55_25 038 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-18 07_55_25 195 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623977725195
+2021-06-18 07_55_25 196 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-18 07_55_25 307 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623977725307
+2021-06-18 07_55_25 307 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-18 10_08_04 275 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-18 10_08_04 425 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623985684425
+2021-06-18 10_08_04 427 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-18 10_08_04 680 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623985684679
+2021-06-18 10_08_04 680 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-18 10_56_36 665 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-18 10_56_36 887 / SIMS_MainThreadHandler : reason: 10, timestamp: 1623988596886
+2021-06-18 10_56_36 887 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-18 10_56_36 990 / SIMS_MainThreadHandler : reason: 11, timestamp: 1623988596990
+2021-06-18 10_56_36 991 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-18 15_00_36 052 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-18 15_00_36 221 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624003236221
+2021-06-18 15_00_36 222 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-18 15_00_36 332 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624003236332
+2021-06-18 15_00_36 333 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-18 20_30_28 700 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-18 20_30_28 824 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624023028824
+2021-06-18 20_30_28 825 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-18 20_30_29 002 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624023029001
+2021-06-18 20_30_29 003 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-19 08_22_08 214 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-19 08_22_08 299 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624065728299
+2021-06-19 08_22_08 300 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-19 08_22_08 595 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624065728595
+2021-06-19 08_22_08 596 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-20 08_55_16 469 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 08_55_16 753 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624154116753
+2021-06-20 08_55_16 754 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-20 08_55_16 945 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624154116945
+2021-06-20 08_55_16 953 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-20 08_58_04 789 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 08_58_04 945 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624154284945
+2021-06-20 08_58_04 946 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-20 08_58_05 146 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624154285146
+2021-06-20 08_58_05 152 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-20 09_46_03 614 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 09_46_03 729 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624157163727
+2021-06-20 09_46_03 729 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-20 09_46_03 965 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624157163965
+2021-06-20 09_46_03 967 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-20 16_45_00 657 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 16_45_00 823 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624182300823
+2021-06-20 16_45_00 824 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-20 16_45_01 075 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624182301075
+2021-06-20 16_45_01 076 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-20 16_53_25 657 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 16_53_25 928 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624182805927
+2021-06-20 16_53_25 932 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-20 16_53_26 031 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624182806031
+2021-06-20 16_53_26 032 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-20 16_56_38 877 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 16_56_39 203 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624182999202
+2021-06-20 16_56_39 205 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-20 16_56_39 268 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624182999268
+2021-06-20 16_56_39 269 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-20 17_25_37 130 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 17_25_37 210 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624184737210
+2021-06-20 17_25_37 212 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-20 17_25_37 435 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624184737435
+2021-06-20 17_25_37 435 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-20 21_21_46 213 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 21_21_46 299 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624198906298
+2021-06-20 21_21_46 299 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-20 21_21_46 531 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624198906530
+2021-06-20 21_21_46 531 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-20 21_59_59 198 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-20 21_59_59 447 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624201199447
+2021-06-20 21_59_59 448 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-20 21_59_59 560 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624201199560
+2021-06-20 21_59_59 561 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-21 08_13_47 237 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-21 08_13_47 473 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624238027472
+2021-06-21 08_13_47 473 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-21 08_13_47 641 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624238027640
+2021-06-21 08_13_47 641 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-21 08_14_30 848 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-21 08_14_30 991 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624238070991
+2021-06-21 08_14_30 992 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-21 08_14_31 168 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624238071167
+2021-06-21 08_14_31 174 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-22 06_05_32 839 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-22 06_05_32 981 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624316732981
+2021-06-22 06_05_32 982 / SIMS_MainThreadHandler : primarySlot: 0, primarySubId: 2
+2021-06-22 06_05_33 241 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624316733241
+2021-06-22 06_05_33 250 / SIMS_MainThreadHandler : subId: 2, slotIndex: 0
+2021-06-22 06_19_39 383 / SIMS_DefaultInternetActivity : SetPrimarySlotId: user changed.
+2021-06-22 06_19_39 612 / SIMS_MainThreadHandler : reason: 10, timestamp: 1624317579611
+2021-06-22 06_19_39 613 / SIMS_MainThreadHandler : primarySlot: 1, primarySubId: 1
+2021-06-22 06_19_39 761 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624317579761
+2021-06-22 06_19_39 761 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-22 09_43_45 364 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624329825362
+2021-06-22 09_43_45 367 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-23 05_49_41 026 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624402181022
+2021-06-23 05_49_41 029 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-24 06_32_54 567 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624491174566
+2021-06-24 06_32_54 569 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
+2021-06-25 07_29_06 808 / SIMS_MainThreadHandler : reason: 11, timestamp: 1624580946804
+2021-06-25 07_29_06 810 / SIMS_MainThreadHandler : subId: 1, slotIndex: 1
